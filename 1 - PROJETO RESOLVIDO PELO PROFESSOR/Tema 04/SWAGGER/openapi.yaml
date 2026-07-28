@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Projeto do SENAI Jandira - Professor Marcel
+  title: Projeto Cogna - Professor Marcel
   description: |-
    API destinada a controle de alunos
   termsOfService: http://swagger.io/terms/
